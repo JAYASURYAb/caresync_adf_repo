@@ -1,1 +1,1 @@
-# caresync_adf_repo
+This repository is for CareSync Project
