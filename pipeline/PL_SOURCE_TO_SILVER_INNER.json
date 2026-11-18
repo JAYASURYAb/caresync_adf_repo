@@ -200,7 +200,7 @@
 				}
 			},
 			{
-				"name": "Insert IN PROGRESS status",
+				"name": "Update Success status",
 				"type": "Script",
 				"dependsOn": [
 					{
